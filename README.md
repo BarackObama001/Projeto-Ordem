@@ -17,5 +17,5 @@ Aba da temporada O Segredo Na Ilha (em desenvolvimento)
 Aba da temporada Sinais Do Outro Lado (em desenvolvimento)
 ```
 
-// Projeto em desenvolvimento por:
+# Projeto em desenvolvimento por:
 Théo Sant'Anna Goularte
